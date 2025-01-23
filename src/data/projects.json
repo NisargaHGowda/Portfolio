@@ -1,7 +1,7 @@
 [
     {
       "title": "Travel_website Design",
-      "imageSrc": "/assets/projects/travel.jpg",
+      "imageSrc": "/assets/projects/Travel.jpg",
       "description": "This project Designed and developed a user-friendly travel website that allows users to search and book flights, hotels, and packages. ",
       "skills": ["JAVA","JAVASCRIPT","HTML","CSS"],
       "demo": [""],
