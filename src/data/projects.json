@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Travel_website Design",
+      "imageSrc": "/assets/projects/travel.jpg",
+      "description": "This project Designed and developed a user-friendly travel website that allows users to search and book flights, hotels, and packages. ",
+      "skills": ["JAVA","JAVASCRIPT","HTML","CSS"],
+      "demo": [""],
+      "source": "https://www.github.com/NisargaHGowda"
+    },
+    {
+      "title": "Voice-Based App",
+      "imageSrc": "/assets/projects/voice.jpg",
+      "description": "A voice-based React app allows users to interact with the application using voice commands users can interact with the application using their voice, eliminating the need for manual typing.",
+      "skills": ["JAVA", "JAVASCRIPT", "HTML","CSS"],
+      "demo": ["https://endearing-babka-fa849a.netlify.app"],
+      "source": "https://www.github.com/NisargaHGowda"
+    },
+    {
+      "title": "Basic Sign-up and Login-page",
+      "imageSrc": "/assets/projects/login.jpg",
+      "description": "In this project, we will create a basic sign-up and login from in React, we will be using react-hook from library.",
+      "skills": ["JAVASCRIPT", "CSS", "HTML"],
+      "demo": ["https://login-page-2-nis.vercel.app/"],
+      "source": "https://www.github.com/NisargaHGowda"
+    }
+  ]

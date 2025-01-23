@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "Prodigal AI",
+    "startDate": "Dec, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on UI designs", "learning to create apps"],
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWa5-vmZvzNfnYRjN6KqdzEw3N84BbeZSgA&s"
+  },
+  {
+    "role": "learner",
+    "organisation": "youtube",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked on VS code", "Designed few projects"],
+    "imageSrc": "https://w7.pngwing.com/pngs/936/468/png-transparent-youtube-logo-youtube-logo-computer-icons-subscribe-angle-rectangle-airplane-thumbnail.png"
+  }
+  ]
