@@ -12,7 +12,7 @@
       "imageSrc": "/assets/projects/voice.jpg",
       "description": "A voice-based React app allows users to interact with the application using voice commands users can interact with the application using their voice, eliminating the need for manual typing.",
       "skills": ["JAVA", "JAVASCRIPT", "HTML","CSS"],
-      "demo": ["https://endearing-babka-fa849a.netlify.app"],
+      "demo": ["https://voice-based-app.vercel.app"],
       "source": "https://www.github.com/NisargaHGowda"
     },
     {
